@@ -43,6 +43,11 @@
     align-items: center;
     justify-content: center;
     font-size: large;
+    background-color: #afabab;
+    width: 100%;
+    margin: 0;
+    /* height: 40px; */
+    padding: 1rem;
   }
   
   /* Responsive */
