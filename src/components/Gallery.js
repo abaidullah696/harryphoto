@@ -1,9 +1,8 @@
 import React from "react";
-import "../style/Gallery.css"; // Import the CSS file
+import "../style/Gallery.css";
 
 function Gallery() {
   const images = [
-    // Replace with actual image URLs
     "https://img.freepik.com/free-vector/floral-abstract-background_1017-325.jpg?ga=GA1.1.1818626202.1724325143&semt=ais_hybrid",
     "https://img.freepik.com/free-vector/hand-drawn-flowers-blackboard-background_23-2148400469.jpg?ga=GA1.1.1818626202.1724325143&semt=ais_hybrid",
     "https://img.freepik.com/free-photo/blue-smooth-wall-textured-background_53876-106133.jpg?ga=GA1.1.1818626202.1724325143",

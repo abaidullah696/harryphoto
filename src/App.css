@@ -11,7 +11,7 @@ body {
   padding: 0 1rem;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .App {
     padding: 0 0.5rem;
