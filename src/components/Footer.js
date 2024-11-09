@@ -78,8 +78,7 @@ function Footer() {
               Sign up for a free account today and start exploring our Image
               Content Library. Whether you're working on a professional project,
               sprucing up your personal blog, or simply seeking visual
-              inspiration, we've got you covered Copyright © 2024 Harry Photo,
-              All rights reserved.
+              inspiration, we've got you covered
             </div>
           </div>
         </div>
