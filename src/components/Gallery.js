@@ -20,9 +20,9 @@ function Gallery() {
 
   return (
     <div className="image-gallery">
-      {images.map((image, index) => (
+      {images.map((imag, index) => (
         <div key={index} className="image-item">
-          <img src={image} alt={`Image ${index + 1}`} />
+          <img src={imag} alt={`Imag ${index + 1}`} />
           <div className="play-button">▶</div>
         </div>
       ))}
