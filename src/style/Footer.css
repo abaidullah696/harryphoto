@@ -2,12 +2,15 @@
     background-color: #333;
     color: #fff;
     padding: 2rem;
+    width: 100%;
+    
   }
   
   .footer-content {
     display: flex;
     justify-content: space-around;
     padding-bottom: 1rem;
+    
   }
   
   .footer-section h4 {
@@ -19,6 +22,27 @@
     color: #aaa;
     margin-bottom: 0.5rem;
     text-decoration: none;
+  }
+  .logo {
+    margin-left: 120px;
+    margin-right: 60px;
+  }
+  .footer-buttom {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 80%;
+  }
+  .des {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
   }
   
   /* Responsive */
